@@ -34,10 +34,10 @@
     - RX : Voice Client가 있는 상태  
       
   - Event  
-    - VR PDU in  
-    - Text PDU in  
-    - VD (Voice Done) PDU in  
-    - Timer expire  
+    A) VR PDU in  
+    B) Text PDU in  
+    C) VD (Voice Done) PDU in  
+    D) Timer expire  
     
     <img src="./img/ArbitratorFSM.png" width="400" height="200">. 
     
