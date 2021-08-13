@@ -1,7 +1,9 @@
-## Protocol Design
-> Final project as an assignment of 'Network Protocol Design (Capstone)' class.  
-> Implemented protocol 'Push-to-Chat' with C and Lora board.    
-    
+## Protocol Design  
+### 여혜민 (IT공학/팀장), 김주영 (IT공학/팀원), 김수빈 (전자공학/팀원)
+> '네트워크 프로토콜 설계 (캡스톤)' 수업 최종 과제  
+> C와 로라보드를 활용하여 직접 'Push-to-Chat' 프로토콜 설계 및 구현     
+> FSM 설계 -> 제공된 베이스라인 코드 기반으로 팀 단위로 구현   
+> <a href="https://github.com/skmwit/ProtocolDesign/blob/main/img/result_.mp4">결과 영상</a>  
     
   ---  
       
